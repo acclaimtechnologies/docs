@@ -409,7 +409,7 @@ select.language option {
 .slider-content{
   position: relative;
   height: 100vh;
-  color: #ffffff;
+  color: #000000;
 }
 
 .slider-content.light-bg {
@@ -1285,7 +1285,8 @@ select.language option {
 #success-story{
   padding-top: 94px;
   padding-bottom: 138px;
-  background: url(../img/cloud_slider_bg.png) no-repeat center top;
+   background: url(../img/cloud_slider_bg.png) no-repeat center bottom;
+
 }
 .slideit{
   text-align: center;
@@ -1541,11 +1542,11 @@ p.category {
   font-weight: 400;
 }
 .testimonial-item .client-details{
-  color: #636363;
+  color: black;
   padding-top: 15px;
 }
 .testimonial-item .feedback-date{
-  color: #636363;
+  color: black;
   margin-bottom: 0px;
 }
 
